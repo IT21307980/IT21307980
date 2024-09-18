@@ -4,7 +4,7 @@
 **IT21307980/IT21307980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 Currently working on i-Context (Pvt)Ltd
+- 🔭 Currently following the BSc Information Technology at University of Hertfordshire
 - 🌱 Undergraduate at SLIIT
 - 🌎 Reach my portfolio : https://shamalrodrigoz.web.app
 - 💬 Ask me about MERN, HTML, CSS , JS/TS, JAVA
